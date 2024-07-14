@@ -1,0 +1,6 @@
+{
+    "require": {
+        "spatie/laravel-permission": "^6.9",
+        "filament/filament": "^3.2"
+    }
+}
